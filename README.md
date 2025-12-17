@@ -1,12 +1,13 @@
 ## Hi, I’m Yash 👋
 
-I’m a B.Sc. Computer Science student who enjoys building practical projects and learning how software systems work from the ground up.
+I’m a B.Sc. Computer Science student focused on building simple, complete software projects while strengthening core programming fundamentals.
 
 ### Technical Skills
 - Programming: C, C++, Python, JavaScript
+- Data Structures & Logic: basics (arrays, strings, problem solving)
 - Web: HTML, CSS, JavaScript, Bootstrap
 - Databases: MySQL (basics)
-- Tools & Concepts: Git, GitHub, basic data structures, problem solving
+- Tools: Git, GitHub
 
 ### What I’m currently working on
 - Strengthening core programming fundamentals
