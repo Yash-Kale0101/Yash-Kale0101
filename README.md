@@ -14,4 +14,4 @@ I’m a B.Sc. Computer Science student focused on building simple, complete soft
 - Building small but complete web applications
 - Improving logic and data structure skills through practice
 
-I focus on learning by building and keeping my projects simple, clear, and honest.
+Currently focused on improving JavaScript logic and building small applications end-to-end.
